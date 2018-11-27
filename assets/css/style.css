@@ -227,6 +227,7 @@ input[type=submit] {
 @media (max-width: 768px) {
   .main-section {
     width: 100%;
+    padding: 30px 24px;
   }
 }
 
